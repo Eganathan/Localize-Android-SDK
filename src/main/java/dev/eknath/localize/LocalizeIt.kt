@@ -1,9 +1,8 @@
-package dev.eknath.localizeit
+package dev.eknath.localize
 
 import android.app.Application
 import android.content.Context
 import android.os.Build
-import android.os.LocaleList
 import android.util.Log
 
 object LocalizeIt {

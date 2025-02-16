@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "dev.eknath.localizeit"
+    namespace = "dev.eknath.localize"
     compileSdk = 35
 
     defaultConfig {

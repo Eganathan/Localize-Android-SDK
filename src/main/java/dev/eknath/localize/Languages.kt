@@ -1,4 +1,4 @@
-package dev.eknath.localizeit
+package dev.eknath.localize
 
 import android.app.LocaleManager
 import android.content.Context

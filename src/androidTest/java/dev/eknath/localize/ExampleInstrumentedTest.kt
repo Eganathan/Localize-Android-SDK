@@ -1,4 +1,4 @@
-package dev.eknath.localizeit
+package dev.eknath.localize
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
